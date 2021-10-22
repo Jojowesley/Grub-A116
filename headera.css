@@ -261,21 +261,21 @@ footer {
 
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
-  .Pre-Order {font-size: 12px;}
+  .Pre-Order {font-size: 16px;}
   .footer-logo img { width: 100px;}
   .footer-list a {font-size: 8px;}
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
-  .Pre-Order {font-size: 14px;}
+  .Pre-Order {font-size: 16px;}
   .footer-logo img { width: 150px;}
   .footer-list a {font-size: 10px;}
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
-  .Pre-Order {font-size: 16px;}
+  .Pre-Order {font-size: 18px;}
   .footer-logo img { width: 200px;}
   .footer-list a {font-size: 12px;}
 } 
